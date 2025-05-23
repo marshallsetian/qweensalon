@@ -544,7 +544,7 @@ strong {
 
 .price-list-thumb {
   margin-bottom: 10px;
-  font-size: 15px;
+  font-size: 20px;
   text-align: center;
 }
 
@@ -560,7 +560,7 @@ strong {
   background: var(--p-color);
   flex: auto;
   height: 1px;
-  margin: auto 10px 0;
+  margin: auto 20px 0;
 }
 
 .price-list-section .custom-block-bg-overlay-wrap {
