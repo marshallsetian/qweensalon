@@ -543,6 +543,7 @@ strong {
 
 .price-list-thumb {
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .price-list-thumb:last-child {
